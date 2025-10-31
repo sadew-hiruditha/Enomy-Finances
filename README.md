@@ -94,10 +94,5 @@ code/
 - Session management
 - Input validation
 
-## License
-
-Proprietary - © 2025 RBSX Group
-
----
 
 **Version:** 1.0.0 | **Date:** October 31, 2025
